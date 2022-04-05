@@ -14,7 +14,7 @@ int main() {
   // --- 標準入力読込修了 ---
 
   // --- maximum_profit ---
-  int maxv = -200000;
+  int maxv = -999999999;
   int minv = R[0];
 
   // O(n)の計算量
